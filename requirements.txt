@@ -8,6 +8,6 @@ langchain-groq==0.3.2
 
 sentence-transformers==4.1.0
 faiss-cpu==1.11.0
-torch==2.1.0+cpu
+torch==2.1.0
 
 pypdf2
